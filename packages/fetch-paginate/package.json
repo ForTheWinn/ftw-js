@@ -1,6 +1,6 @@
 {
   "name": "@ftw-js/fetch-paginate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fetch NEO blockchain data by given keys",
   "author": "ED <eddie@ftwcoin.io>",
   "homepage": "",
