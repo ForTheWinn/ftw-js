@@ -1,0 +1,21 @@
+{
+  "name": "@ftw-js/api",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "ED <eddie@ftwcoin.io>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

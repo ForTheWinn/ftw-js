@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    { "path": "./packages/api" },
+    { "path": "./packages/fetch-paginate" },
+    { "path": "./packages/lottery-number-picker" }
+  ]
+}
