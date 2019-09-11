@@ -1,6 +1,6 @@
 {
   "name": "@ftw-js/api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "API wrappers that helps interacting FTW smart contracts",
   "author": "FTW <info@ftwcoin.io>",
   "repository": {
