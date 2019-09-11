@@ -1,6 +1,6 @@
 import Neon, { api, rpc } from "@cityofzion/neon-js";
 import _ from "underscore";
-import { helpers } from "./index";
+import { helpers } from "../index";
 
 interface PaginatedBlockchainProps {
   rpcEndpoint: string;

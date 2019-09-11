@@ -1,9 +1,16 @@
 {
   "name": "@ftw-js/lottery-number-picker",
   "version": "0.0.2",
-  "description": "> TODO: description",
-  "homepage": "",
-  "license": "ISC",
+  "description": "React lottery number picker",
+  "author": "FTW <info@ftwcoin.io>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ediopia/ForTheWinn/ftw-js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "directories": {
@@ -14,7 +21,9 @@
     "lib"
   ],
   "scripts": {
-    "tsc": "tsc",
+    "build": "tsc -b",
+    "clean": "rimraf ./lib ./dist tsconfig.tsbuildinfo",
+    "prepublishOnly": "yarn clean && yarn build",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
@@ -27,5 +36,6 @@
   "peerDependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.0"
-  }
+  },
+  "gitHead": "d27dff4eb3e82b93a18ce22478e36749df51b27f"
 }

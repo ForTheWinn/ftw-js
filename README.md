@@ -1,5 +1,5 @@
-#FTW-JS
-> Libraries and components for FTW dApp clients.
+# FTW-JS
+> Libraries and React components for FTW dApp clients.
 
 ## Included packages
 
@@ -18,13 +18,3 @@ npm i @neo-react/[packages]
 ```sh
 npm run start
 ```
-
-## Run tests
-
-```sh
-npm run test
-```
-
-## Setup
-
-This repository is a typescript mono-repo using Lerna and Yarn workspaces. Please ensure the following is installed:

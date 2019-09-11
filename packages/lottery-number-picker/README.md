@@ -1,3 +1,3 @@
 # `@ftw-js/lottery-number-picker`
 
-> TODO: description
+> React lottery number picker

@@ -1,5 +1,5 @@
 import Neon, { u, wallet, rpc } from "@cityofzion/neon-js";
-import NEOAPI from "./neo-api";
+import NEOAPI from "../neo";
 import Parsers from "./parsers";
 import {
   CONTRACT_SCRIPT_HASH,

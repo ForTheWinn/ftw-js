@@ -685,33 +685,29 @@
         "version": "a79f9bcb46cbe9ac225a65cc237ac54eb79943d6e402740bd92071ab5b3d3b55",
         "signature": "a79f9bcb46cbe9ac225a65cc237ac54eb79943d6e402740bd92071ab5b3d3b55"
       },
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/neo/index.d.ts": {
+        "version": "27ea0279ad9945c5217d72c215d2a8d0a548686c5863f7114a28c34abda581de",
+        "signature": "27ea0279ad9945c5217d72c215d2a8d0a548686c5863f7114a28c34abda581de"
+      },
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/types.d.ts": {
+        "version": "205f72acbc0772318d2e7be0e0a804417c1a41fefbbcf44d1758477cc7e8e7ea",
+        "signature": "205f72acbc0772318d2e7be0e0a804417c1a41fefbbcf44d1758477cc7e8e7ea"
+      },
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/parsers.d.ts": {
+        "version": "b6452fdcf3578296fbf15989a4940356c8947b3df856c87f7b72b89c12649954",
+        "signature": "b6452fdcf3578296fbf15989a4940356c8947b3df856c87f7b72b89c12649954"
+      },
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/index.d.ts": {
+        "version": "16fc8927434f2288ea39756c152f8930360f497d82acaa8298de1d512847bc9d",
+        "signature": "16fc8927434f2288ea39756c152f8930360f497d82acaa8298de1d512847bc9d"
+      },
       "/users/ed/projects/modules/ftw-js/packages/api/lib/helpers.d.ts": {
         "version": "0e3773c260a57e26870a510ac5246139eaf3386f9484dffcfc417a897809c2a0",
         "signature": "0e3773c260a57e26870a510ac5246139eaf3386f9484dffcfc417a897809c2a0"
       },
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/consts.d.ts": {
-        "version": "0b29cd448c0904e527991244685329658c19da1cfd6199aed04c37fa6cdf61b1",
-        "signature": "0b29cd448c0904e527991244685329658c19da1cfd6199aed04c37fa6cdf61b1"
-      },
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/types.d.ts": {
-        "version": "205f72acbc0772318d2e7be0e0a804417c1a41fefbbcf44d1758477cc7e8e7ea",
-        "signature": "205f72acbc0772318d2e7be0e0a804417c1a41fefbbcf44d1758477cc7e8e7ea"
-      },
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/parsers.d.ts": {
-        "version": "b6452fdcf3578296fbf15989a4940356c8947b3df856c87f7b72b89c12649954",
-        "signature": "b6452fdcf3578296fbf15989a4940356c8947b3df856c87f7b72b89c12649954"
-      },
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/neo-api.d.ts": {
-        "version": "1b9e111fcd96bf8c56884d7d06878ba5ee18545b95c2042499c176909a1e5cb9",
-        "signature": "1b9e111fcd96bf8c56884d7d06878ba5ee18545b95c2042499c176909a1e5cb9"
-      },
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2-api.d.ts": {
-        "version": "c820144c0cb75b43653e7273706b42a8c0d109dcb7d57ac46afa1d3e552eacb2",
-        "signature": "c820144c0cb75b43653e7273706b42a8c0d109dcb7d57ac46afa1d3e552eacb2"
-      },
       "/users/ed/projects/modules/ftw-js/packages/api/lib/index.d.ts": {
-        "version": "82028c754ef663b157cedb6068e6a887d77e8c2d52849c9b7a05c14cc6c94fdc",
-        "signature": "82028c754ef663b157cedb6068e6a887d77e8c2d52849c9b7a05c14cc6c94fdc"
+        "version": "c850c8bc5dc6ad9ad66b6a596963413eee455d32e98f4bdfeb6205f7ce37584c",
+        "signature": "c850c8bc5dc6ad9ad66b6a596963413eee455d32e98f4bdfeb6205f7ce37584c"
       },
       "/users/ed/projects/modules/ftw-js/node_modules/@types/underscore/index.d.ts": {
         "version": "63b14d954e5cd45625cf9b53f1020661b4dba9e2fd943d2a14d31ee89890447f",
@@ -784,6 +780,14 @@
       "/users/ed/projects/modules/ftw-js/node_modules/@types/bs58/index.d.ts": {
         "version": "5cbc27193321e6ba10f4e9f3c5519649d9e2716cf103efd7eaa7a89e0f8ed1d4",
         "signature": "5cbc27193321e6ba10f4e9f3c5519649d9e2716cf103efd7eaa7a89e0f8ed1d4"
+      },
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/classnames/types.d.ts": {
+        "version": "dc688638e386342faae164e68ac0205274b6731e70ac1a45921f3ce3aa083795",
+        "signature": "dc688638e386342faae164e68ac0205274b6731e70ac1a45921f3ce3aa083795"
+      },
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/classnames/index.d.ts": {
+        "version": "b16c6ab962274dc23b0c57aba4425c3265cc05ad84782b8db5a344df6ad0f8f1",
+        "signature": "b16c6ab962274dc23b0c57aba4425c3265cc05ad84782b8db5a344df6ad0f8f1"
       },
       "/users/ed/projects/modules/ftw-js/node_modules/@types/crypto-js/index.d.ts": {
         "version": "1a95c84dec7c569b635e51de424ae9334d6c9e65f9e0d79c55d639914132c585",
@@ -872,10 +876,6 @@
       "/users/ed/projects/modules/ftw-js/node_modules/@types/react-router-dom/index.d.ts": {
         "version": "8d50040e8a1354075297820c27e3c7f8f9b701b75333daef1ac4112150ccf461",
         "signature": "8d50040e8a1354075297820c27e3c7f8f9b701b75333daef1ac4112150ccf461"
-      },
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/react-slick/index.d.ts": {
-        "version": "a0f0c5a61de861c2c3b63f2331a440d9e644ea7ef99436734dcb7b16688f82c7",
-        "signature": "a0f0c5a61de861c2c3b63f2331a440d9e644ea7ef99436734dcb7b16688f82c7"
       },
       "/users/ed/projects/modules/ftw-js/node_modules/@types/stack-utils/index.d.ts": {
         "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
@@ -1881,39 +1881,34 @@
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/neo/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/types.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/parsers.d.ts": [
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/neo/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/parsers.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/ed/projects/modules/ftw-js/packages/api/lib/helpers.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/consts.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/types.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/parsers.d.ts": [
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/neo-api.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2-api.d.ts": [
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/neo-api.d.ts",
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/parsers.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/ed/projects/modules/ftw-js/packages/api/lib/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/neo/index.d.ts",
         "/users/ed/projects/modules/ftw-js/packages/api/lib/helpers.d.ts",
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/consts.d.ts",
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/parsers.d.ts",
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2-api.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2010,6 +2005,15 @@
       ],
       "/users/ed/projects/modules/ftw-js/node_modules/@types/bs58/index.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/base-x/src/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/classnames/types.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/classnames/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/classnames/types.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2126,11 +2130,6 @@
         "/users/ed/projects/modules/ftw-js/node_modules/@types/react-router/index.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/react-slick/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2284,6 +2283,178 @@
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/consts.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/logging.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/settings.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-js/dist/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/plugin.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/plugin.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/plugin.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/main.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/plugin.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/abi.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/main.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/abi.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/main.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/common.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/create.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/fill.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/mint.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/send.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/sign.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/smartcontract.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/main.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/plugin.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neocli/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neondb/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neoscan/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/smartcontract.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/sign.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/send.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/fill.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/common.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/mint.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/create.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neoscan/core.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neoscan/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neoscan/class.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neoscan/core.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neoscan/class.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neondb/core.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neondb/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neondb/class.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neondb/core.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neondb/class.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neocli/core.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neocli/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neocli/class.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neocli/core.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neocli/class.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/ed/projects/modules/ftw-js/node_modules/@types/loglevel/index.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
@@ -2297,6 +2468,21 @@
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/network.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/protocol.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/query.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/rpcclient.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/parse.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/settings.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/network.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/protocol.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
@@ -2306,7 +2492,236 @@
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/rpcclient.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/axios/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/parse.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/query.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/query.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/axios/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/misc.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/misc.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/convert.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/hash.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/fixed8.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/stringstream.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/random.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/calculate.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/strategy.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/strategy.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/txattrusage.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/calculate.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/publishtransaction.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/contractparam.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/claimtransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/contracttransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/invocationtransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/statetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/minertransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/issuetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/registertransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/enrollmenttransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/publishtransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/enrollmenttransaction.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/registertransaction.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/issuetransaction.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/minertransaction.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/statetransaction.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/invocationtransaction.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/contracttransaction.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/claimtransaction.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transaction.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/parse.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/scriptbuilder.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/opcode.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/contractparam.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/core.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/scriptbuilder.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/stackitem.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/opcode.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/core.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/scriptbuilder.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/strategy.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/balance.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/fixed8.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/assetbalance.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/account.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/balance.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/claims.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/core.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/nep2.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/verify.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/signing.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/wallet.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/multisig.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/witness.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/transactionattribute.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/transactioninput.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/transactionoutput.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/witness.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/statedescriptor.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/strategy.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/assetbalance.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/coin.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/statedescriptor.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/transactionoutput.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/transactioninput.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/transactionattribute.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/txattrusage.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2327,39 +2742,20 @@
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/stringstream.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/random.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/misc.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/convert.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/hash.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/claimitem.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/fixed8.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/stringstream.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/random.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/nep2.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/assetbalance.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/claimitem.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/coin.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/account.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/nep2.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/helper.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/coin.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/fixed8.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/claims.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/claimitem.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2370,20 +2766,35 @@
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/balance.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/fixed8.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/assetbalance.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/claimitem.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/coin.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/fixed8.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/claims.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/claimitem.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/stringstream.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/random.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/nep2.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/wallet.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/account.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/nep2.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/account.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/nep2.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/helper.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2400,211 +2811,6 @@
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/ed/projects/modules/ftw-js/node_modules/@types/node/assert.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/async_hooks.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/buffer.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/events/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/child_process.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/cluster.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/child_process.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/console.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/constants.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/crypto.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/dgram.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/dns.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/dns.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/domain.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/fs.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/url.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/http.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/url.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/http2.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/fs.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/tls.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/url.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/http.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/https.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/tls.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/http.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/url.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/inspector.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/module.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/dns.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/os.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/path.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/perf_hooks.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/async_hooks.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/process.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/punycode.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/querystring.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/readline.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/repl.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/readline.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/vm.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/string_decoder.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/timers.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/tls.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/crypto.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/dns.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/trace_events.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/tty.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/url.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/querystring.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/v8.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/vm.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/worker_threads.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/vm.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/zlib.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2651,19 +2857,34 @@
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/zlib.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/globals.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/globals.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/index.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/base.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/globals.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/glob/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/minimatch/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/base-x/src/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/bs58/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/base-x/src/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/base-x/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/buffer.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/ed/projects/modules/ftw-js/node_modules/@types/bn.js/index.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/index.d.ts",
@@ -2680,611 +2901,268 @@
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/assetbalance.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/claimitem.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/coin.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/async_hooks.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/wallet.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/account.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/nep2.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/perf_hooks.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/async_hooks.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/multisig.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/buffer.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/account.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/balance.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/claims.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/core.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/nep2.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/verify.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/signing.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/wallet.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/multisig.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/events/index.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/txattrusage.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/child_process.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/transactionattribute.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/txattrusage.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/cluster.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/child_process.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/transactioninput.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/console.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/transactionoutput.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/constants.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/witness.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/crypto.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/statedescriptor.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/tls.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/crypto.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/dns.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/transactionattribute.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/transactioninput.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/transactionoutput.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/witness.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/statedescriptor.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/https.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/tls.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/http.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/url.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/strategy.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/assetbalance.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/components/coin.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/http2.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/fs.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/tls.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/url.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/http.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/dgram.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/dns.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/strategy.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/dns.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/query.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/axios/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/dns.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/contractparam.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/tty.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/opcode.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/http.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/url.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/net.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/scriptbuilder.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/opcode.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/domain.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/core.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/scriptbuilder.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/stackitem.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/worker_threads.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/vm.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/contractparam.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/core.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/scriptbuilder.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/stackitem.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/opcode.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/parse.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/zlib.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/rpcclient.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/axios/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/parse.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/query.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/v8.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/network.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/protocol.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/query.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/rpcclient.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/parse.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/readline.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transaction.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/repl.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/readline.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/vm.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/claimtransaction.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/fs.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/stream.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/url.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/contracttransaction.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/inspector.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/invocationtransaction.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/module.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/statetransaction.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/os.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/minertransaction.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/path.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/issuetransaction.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/process.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/registertransaction.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/punycode.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/enrollmenttransaction.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/querystring.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/publishtransaction.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/contractparam.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/url.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/querystring.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/basetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/claimtransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/contracttransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/invocationtransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/statetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/minertransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/issuetransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/registertransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/enrollmenttransaction.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/publishtransaction.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/string_decoder.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/calculate.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/strategy.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/timers.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/components/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/strategy.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/txattrusage.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/calculate.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/trace_events.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/settings.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/consts.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/logging.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/rpc/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/settings.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/u/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neocli/class.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neocli/core.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neocli/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neocli/class.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neocli/core.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neondb/class.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neondb/core.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neondb/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neondb/class.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neondb/core.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neoscan/class.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neoscan/core.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neoscan/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neoscan/class.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neoscan/core.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/common.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/common.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/create.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/fill.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/mint.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/send.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/sign.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/smartcontract.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/main.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/common.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/create.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/fill.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/mint.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/send.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/sign.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/smartcontract.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/main.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/plugin.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neocli/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neondb/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/provider/neoscan/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/funcs/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/abi.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/main.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/plugin.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/abi.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/main.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/plugin.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-js/dist/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/plugin.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/plugin.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/helpers.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/consts.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/types.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/parsers.d.ts": [
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/neo-api.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2-api.d.ts": [
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/neo-api.d.ts",
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/parsers.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/helpers.d.ts",
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/consts.d.ts",
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/parsers.d.ts",
-        "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2-api.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/underscore/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/react/global.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/yargs/index.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/csstype/index.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/stack-utils/index.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/prop-types/index.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/react-router-dom/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/react-router/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/csstype/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/prop-types/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/react/global.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/react-router/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/react-loading-skeleton/dist/index.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/react-dom/index.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/packages/fetch-paginate/src/index.tsx": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@babel/types/lib/index.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/json-schema/index.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__generator/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@babel/types/lib/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/jest/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/jest-diff/build/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/jest-diff/index.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__traverse/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@babel/types/lib/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/jest-diff/build/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/jest-diff/build/types.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@babel/parser/typings/babel-parser.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@babel/types/lib/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/jest-diff/build/types.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__template/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@babel/parser/typings/babel-parser.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@babel/types/lib/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/jest-diff/index.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__core/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__generator/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__traverse/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__template/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@babel/types/lib/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/istanbul-lib-coverage/index.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/node_modules/buffer/index.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/istanbul-lib-coverage/index.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/base-x/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/buffer.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/base-x/src/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/bs58/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/base-x/src/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/crypto-js/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/eslint-visitor-keys/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/minimatch/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/glob/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/events.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/minimatch/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/history/domutils.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/history/createbrowserhistory.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/domutils.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/history/createhashhistory.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/domutils.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/history/creatememoryhistory.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/domutils.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/history/locationutils.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/history/pathutils.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/istanbul-lib-coverage/index.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -3297,72 +3175,192 @@
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/istanbul-lib-coverage/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/istanbul-lib-report/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/istanbul-lib-coverage/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/istanbul-reports/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/istanbul-lib-report/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/istanbul-lib-coverage/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/jest-diff/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/jest-diff/build/types.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/jest-diff/build/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/jest-diff/build/types.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/jest/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/jest-diff/build/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/jest-diff/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/json-schema/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/react-dom/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/react-router/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/history/pathutils.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/react-router-dom/index.d.ts": [
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/react-router/index.d.ts",
-        "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/history/locationutils.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/react-slick/index.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/history/creatememoryhistory.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/domutils.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/history/createhashhistory.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/domutils.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/history/createbrowserhistory.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/history/domutils.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/history/domutils.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/minimatch/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/eslint-visitor-keys/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/crypto-js/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/classnames/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/classnames/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/classnames/types.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/node_modules/buffer/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__core/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__generator/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__template/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@babel/types/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__template/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@babel/types/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@babel/types/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@babel/types/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@babel/types/lib/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@babel/types/lib/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/packages/fetch-paginate/src/index.tsx": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/react-loading-skeleton/dist/index.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/stack-utils/index.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/react/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/csstype/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/prop-types/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/react/global.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/yargs/index.d.ts": [
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/prop-types/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/csstype/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/react/global.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/underscore/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/neo/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/helpers.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/helpers.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/neo/index.d.ts",
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/parsers.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/parsers.d.ts": [
+        "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/types.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/types.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/neo/index.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/stackitem.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/opcode.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/sc/contractparam.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/transaction/transactiontype.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/tx/txattrusage.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-core/lib/wallet/multisig.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/globals.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/node/vm.d.ts": [
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/util.d.ts",
         "/users/ed/projects/modules/ftw-js/node_modules/@types/node/ts3.2/util.d.ts"
       ]
@@ -3539,12 +3537,11 @@
       "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-nep5/lib/plugin.d.ts",
       "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-api/lib/index.d.ts",
       "/users/ed/projects/modules/ftw-js/node_modules/@cityofzion/neon-js/dist/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/neo/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/types.d.ts",
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/parsers.d.ts",
+      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2/index.d.ts",
       "/users/ed/projects/modules/ftw-js/packages/api/lib/helpers.d.ts",
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/consts.d.ts",
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/types.d.ts",
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/parsers.d.ts",
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/neo-api.d.ts",
-      "/users/ed/projects/modules/ftw-js/packages/api/lib/nlp2-api.d.ts",
       "/users/ed/projects/modules/ftw-js/packages/api/lib/index.d.ts",
       "/users/ed/projects/modules/ftw-js/node_modules/@types/underscore/index.d.ts",
       "/users/ed/projects/modules/ftw-js/packages/fetch-paginate/src/index.services.ts",
@@ -3564,6 +3561,8 @@
       "/users/ed/projects/modules/ftw-js/node_modules/@types/base-x/index.d.ts",
       "/users/ed/projects/modules/ftw-js/node_modules/base-x/src/index.d.ts",
       "/users/ed/projects/modules/ftw-js/node_modules/@types/bs58/index.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/classnames/types.d.ts",
+      "/users/ed/projects/modules/ftw-js/node_modules/@types/classnames/index.d.ts",
       "/users/ed/projects/modules/ftw-js/node_modules/@types/crypto-js/index.d.ts",
       "/users/ed/projects/modules/ftw-js/node_modules/@types/eslint-visitor-keys/index.d.ts",
       "/users/ed/projects/modules/ftw-js/node_modules/@types/minimatch/index.d.ts",
@@ -3586,7 +3585,6 @@
       "/users/ed/projects/modules/ftw-js/node_modules/@types/react-dom/index.d.ts",
       "/users/ed/projects/modules/ftw-js/node_modules/@types/react-router/index.d.ts",
       "/users/ed/projects/modules/ftw-js/node_modules/@types/react-router-dom/index.d.ts",
-      "/users/ed/projects/modules/ftw-js/node_modules/@types/react-slick/index.d.ts",
       "/users/ed/projects/modules/ftw-js/node_modules/@types/stack-utils/index.d.ts",
       "/users/ed/projects/modules/ftw-js/node_modules/@types/yargs/index.d.ts"
     ]

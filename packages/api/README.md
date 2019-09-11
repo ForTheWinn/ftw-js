@@ -1,3 +1,3 @@
 # `@ftw-js/api`
 
-> TODO: description
+> This package contains API wrappers that helps interacting FTW smart contracts.

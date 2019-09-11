@@ -1,5 +1,5 @@
 import { u } from "@cityofzion/neon-js";
-import { convertAddress, convertNumber, deserializeValue } from "./helpers";
+import { convertAddress, convertNumber, deserializeValue } from "../helpers";
 import { APIStatus, EntryItem, ResultItem, StackItem } from "./types";
 
 type NLP2Status = Omit<APIStatus, "address" | "rpcEndpoint">;

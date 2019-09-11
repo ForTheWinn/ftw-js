@@ -1,7 +1,5 @@
+import NLP2API from "./nlp2";
+import NEOAPI from "./neo";
 import * as helpers from "./helpers";
-import * as CONST from "./consts";
-import * as parsers from "./parsers";
-import NLP2API from "./nlp2-api";
 
-export { helpers, CONST, parsers };
-export default NLP2API;
+export { NLP2API, NEOAPI, helpers };

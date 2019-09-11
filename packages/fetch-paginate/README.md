@@ -1,3 +1,3 @@
 # `@ftw-js/fetch-paginate`
 
-> TODO: description
+> React HOC which is useful to Fetch data that stored on NEO blockchain with keys.
