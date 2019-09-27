@@ -1,3 +1,5 @@
+import { convertIntToHexstring } from "../helpers";
+
 export const FTX_CONTRACT_SCRIPT_HASH = "aac66f9779ca67d819d05492805d251dab02fc7b";
 export const CONTRACT_SCRIPT_HASH = "ada839286d23cdfb42eb556461b9382d02b6e12f";
 
@@ -7,9 +9,23 @@ export const FETCH_METHODS = {
   winner: "getLotteryWinner",
 };
 
+// interface BuyScriptProps {
+//
+// }
+
+// interface InvokeMethodScript {
+//   operation: string;
+//   scriptHash: string;
+//   args: ArgProps[];
+// }
+// interface ArgProps {
+//   type: string;
+//   value: any;
+// }
+
 export const INVOKE_METHODS = {
-  buy: (args: any) => {
-    return {
+  buy: (args: any[]) => {
+    const script = {
       operation: "buyLotteryTicket",
       scriptHash: CONTRACT_SCRIPT_HASH,
       args: [
@@ -47,8 +63,15 @@ export const INVOKE_METHODS = {
         },
       ],
     };
+    if (args[8]) {
+      script.args.push({
+        type: "Address",
+        value: args[8],
+      });
+    }
+    return script;
   },
-  draw: (args: any) => {
+  draw: (args: any[]) => {
     return {
       operation: "drawLottery",
       scriptHash: CONTRACT_SCRIPT_HASH,
@@ -60,7 +83,7 @@ export const INVOKE_METHODS = {
       ],
     };
   },
-  verify: (args: any) => {
+  verify: (args: any[]) => {
     const script = {
       operation: "verityLotteryTicket",
       scriptHash: CONTRACT_SCRIPT_HASH,
@@ -74,8 +97,8 @@ export const INVOKE_METHODS = {
     // If there is ticket no
     if (args[1]) {
       script.args.push({
-        type: "Integer",
-        value: args[1],
+        type: "ByteArray",
+        value: convertIntToHexstring(args[1]),
       });
     }
     return script;
@@ -84,18 +107,15 @@ export const INVOKE_METHODS = {
     const script = {
       operation: "claimLotteryWinningTicket",
       scriptHash: CONTRACT_SCRIPT_HASH,
-      args: [
-        {
-          type: "Address",
-          value: args[0],
-        },
-      ],
+      args: [],
     };
     // If there is ticket no
-    if (args[1]) {
+    if (args[0]) {
       script.args.push({
-        type: "Integer",
-        value: args[1],
+        // @ts-ignore
+        type: "ByteArray",
+        // @ts-ignore
+        value: convertIntToHexstring(args[1]),
       });
     }
     return script;

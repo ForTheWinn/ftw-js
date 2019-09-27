@@ -7,7 +7,8 @@ type NLP2Status = Omit<APIStatus, "address" | "rpcEndpoint">;
 export function parseStatus(stack: StackItem[]): NLP2Status {
   const jackpots = deserializeValue(stack[1].value);
   return {
-    nextDrawingAt: Date.now() + Math.abs(parseInt(stack[0].value) * 1000),
+    nextDrawingAt:
+      stack[0].value !== "" ? Date.now() + Math.abs(parseInt(stack[0].value) * 1000) : Date.now(),
     availableVerifications: convertNumber(stack[2].value),
     lotteryParticipation: !!stack[3].value,
     contractBalance: {
