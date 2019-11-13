@@ -44,7 +44,7 @@ export interface Entries {
 export interface EntryItem {
   gameNo: number;
   ticketNo: number;
-  ticketCurrency: number;
+  ticketCurrency: string;
   player: string;
   numbers: [number];
   isVerified: boolean;

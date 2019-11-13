@@ -1,5 +1,5 @@
 import { u } from "@cityofzion/neon-js";
-import { convertAddress, convertNumber, deserializeValue } from "../helpers";
+import { convertAddress, convertNumber, deserializeValue, convertString } from "../helpers";
 import { APIStatus, EntryItem, ResultItem, StackItem } from "./types";
 
 type NLP2Status = Omit<APIStatus, "address" | "rpcEndpoint">;
@@ -40,11 +40,11 @@ export function parseStatus(stack: StackItem[]): NLP2Status {
 }
 
 export function parseEntry(byteArray: string): EntryItem {
-  const data = deserializeValue(byteArray);
-  return {
+  let data = deserializeValue(byteArray);
+  data = {
     gameNo: convertNumber(data[0].value),
     ticketNo: convertNumber(data[1].value),
-    ticketCurrency: convertNumber(data[2].value),
+    ticketCurrency: convertString(data[2].value),
     player: convertAddress(data[3].value),
     numbers: data[4].value.map((item: StackItem) => convertNumber(item.value)),
     isVerified: !!data[5].value[0].value,
@@ -54,6 +54,7 @@ export function parseEntry(byteArray: string): EntryItem {
     createdAt: convertNumber(data[7].value),
     referral: convertAddress(data[8].value),
   };
+  return data;
 }
 
 export function parseResult(byteArray: string): ResultItem {

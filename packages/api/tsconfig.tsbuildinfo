@@ -698,12 +698,12 @@
         "signature": "6891c8815dbfe62f201100d32b8368da043de6479ec84a771bd456e8dcbc9ea0"
       },
       "/users/ed/projects/modules/ftw-js/packages/api/src/nlp2/types.ts": {
-        "version": "b7225bb59f7b9ab9fac53c8bf655627e3b25e44fd76d8ebd9460fd56426fd259",
+        "version": "d3b94dbd072ec4fd403a044fdcf81b5ffee01d60853b3861388afe9dfd790a5f",
         "signature": "c96ac96e833f7b6d12ea849d01e6e330f361a76757f785f45a8f4a5becdcb10e"
       },
       "/users/ed/projects/modules/ftw-js/packages/api/src/nlp2/parsers.ts": {
-        "version": "d8765d496f8c52e15f9f3737d7a4c580a02a00a367f8ed722c7e045f1cf4e980",
-        "signature": "a7a8a26262cf77d4dcdaef5ba47140b4d756b09222e86648973ce5eb48ecbcf8"
+        "version": "dab4569d0fecbbb364074182b157e2dd191df2c93789caf258122a52126545e1",
+        "signature": "7ddac7f0cf41720a7fec6ce0d37a9cc8697d66c341990f411fec5fcd6d79b79b"
       },
       "/users/ed/projects/modules/ftw-js/packages/api/src/nlp2/consts.ts": {
         "version": "615a9cddb1a25e4184bc48b49209b03d55bb9f7c127c0253aee13b2cef754cd7",
